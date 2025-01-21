@@ -20,6 +20,6 @@ for files in "$direc"/*; do
     fi
 done
 
-echo "Total file count: $flc" >> "out"
+echo "Total file count: $flc" >> "$out"
 
 cat "$out"

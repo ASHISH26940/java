@@ -1,0 +1,5 @@
+list of all direc: testDirec
+testDirec/txt1.txt
+testDirec/txt2.txt
+testDirec/txt3.txt
+Total file count: 3
