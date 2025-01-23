@@ -1,0 +1,8 @@
+Monday 10
+Tuesday 18
+Wednesday 30
+Thursday 25
+Friday 37
+Saturday 22
+Sunday 15
+

@@ -1,0 +1,6 @@
+John 101 85
+Alice 102 75
+Bob 103 90
+Charlie 104 45
+David 105 60
+
